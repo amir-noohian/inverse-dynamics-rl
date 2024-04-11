@@ -20,7 +20,7 @@ pip install .
 
 ## Run experiment
 ```python
- python task_ur5_visual_reacher.py  --work_dir "./results" --mode 'l' --seed 0 --env_steps 200100 
+ python3 task_franka_visual_reacher_dense_torque.py  --work_dir "./results" --mode 'l' --seed 0 --env_steps 200100 
 ```
 
 
