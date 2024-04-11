@@ -1,4 +1,4 @@
-# Joint torque-based visual reacher with RL
+# Torque-based visual reacher with RL
 
 This repository is for the task of torque-based visual reacher with reinforcement learning. 
 
