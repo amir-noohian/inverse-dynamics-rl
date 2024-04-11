@@ -1,5 +1,8 @@
 # Torque-based visual reacher with RL
 ![Alt Text](https://github.com/amir-noohian/torque-visual-reacher-rl/blob/main/docs/Franka-VisualReacher.gif)\
+<p align="center">
+  <img src="https://github.com/amir-noohian/torque-visual-reacher-rl/blob/main/docs/Franka-VisualReacher.gif" alt="animated" />
+</p>
 This repository is for the task of torque-based visual reacher with reinforcement learning. 
 
 ## Supported Algorithms
