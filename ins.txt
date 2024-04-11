@@ -1,0 +1,22 @@
+powering on everything
+
+unlocking joints from web  API at 172.16.0.2/desk/
+
+putting in command mode ( blue , released switch )
+
+connect to rlair@172.16.0.1 via ssh
+password is username
+# in rlair jetson nano
+cd catkin_ws/
+./franka.sh master
+roslaunch franka_interface interface.launch load_demo_planning:=False start_moveit:=False
+
+
+# Franka Workstaion 
+cd ~/project/catkin_ws/
+./franka.sh remote
+
+cd /home/franka/project/InverseDynamics
+conda activate relod
+
+
