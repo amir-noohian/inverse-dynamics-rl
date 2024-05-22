@@ -25,4 +25,8 @@ pip install .
  python3 task_franka_visual_reacher_dense_torque.py  --work_dir "./results" --mode 'l' --seed 0 --env_steps 200100 
 ```
 
+## Contributors
+- Amir Noohian
 
+## Acknowledgments
+I would like to express our gratitude to Prof. Jagersand for his advice and guidance throughout the development of this project.
