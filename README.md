@@ -29,4 +29,4 @@ pip install .
 - Amir Noohian
 
 ## Acknowledgments
-I would like to express our gratitude to Prof. Jagersand for his advice and guidance throughout the development of this project.
+I would like to express our gratitude to Prof. Martin Jagersand for his advice and guidance throughout the development of this project.
